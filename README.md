@@ -1,7 +1,7 @@
 # Html-forms
 This is a recreation of mint.com's login page
 
-![screenshot](./screenshot.png)
+![Screenshot](screenshot.png)
 
 This is a website to test our understainding of forms in HTML
 
